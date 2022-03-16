@@ -9,7 +9,7 @@ public class Branch2 {
         String respone = userInput.nextLine();
         System.out.println("What's your lucky number?");
         int luckyNumber = userInput.nextInt();
-        System.out.println("Your name is " + respone + " and your lucky number is " + luckyNumber  );
+        System.out.println("Your name is " + respone + " :and your lucky number is " + luckyNumber  );
 
        /* String product = "Mug";
         float price = 5.0f;
